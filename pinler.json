@@ -1,1 +1,13 @@
-
+[
+  {
+    key: "key1",
+    type: "kredi",
+    value: "255"
+  },
+  {
+    key: "key2",
+    type: "model",
+    value: "model_1"
+  }
+  
+]
